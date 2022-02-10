@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "http-proxy-middleware": "^0.20.0",
     "humps": "^2.0.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "query-string": "^6.8.3",
     "react-tabs": "^3.0.0",
     "scroll": "^3.0.1",
